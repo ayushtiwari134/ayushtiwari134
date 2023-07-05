@@ -19,6 +19,3 @@
 </p>
 
 
-<p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushtiwari134&show_icons=true&locale=en&layout=compact" alt="ayushtiwari134" /></p>
-
-<p><img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushtiwari134&" alt="ayushtiwari134" /></p>
