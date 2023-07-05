@@ -8,7 +8,7 @@
 - **Solidity**
 - **Thirdweb**
 - **React**
-- **TensorflowJS**
+- **OpenCV using Python**
 
 ⚡ Fun fact : **I still need a nightlight.**
 
