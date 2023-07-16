@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning :
 - **Solidity**
-- **Thirdweb**
+- **Web3**
 - **React**
 - **OpenCV using Python**
 
