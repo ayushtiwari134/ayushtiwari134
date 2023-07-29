@@ -7,7 +7,7 @@
 🌱 I’m currently learning :
 - **Solidity**
 - **Web3**
-- **Reactjs**
+- **Nextjs**
 - **OpenCV**
 
 ⚡ Fun fact : **I still need a nightlight.**
