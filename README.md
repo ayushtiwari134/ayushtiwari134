@@ -6,7 +6,8 @@
 
 🌱 I’m currently learning :
 - **Solidity**
-- **Web3**
+- **Ethers.js**
+- **Hardhat**
 - **Nextjs**
 - **OpenCV**
 
