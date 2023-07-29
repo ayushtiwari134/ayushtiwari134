@@ -7,8 +7,8 @@
 🌱 I’m currently learning :
 - **Solidity**
 - **Web3**
-- **React**
-- **OpenCV using Python**
+- **Reactjs**
+- **OpenCV**
 
 ⚡ Fun fact : **I still need a nightlight.**
 
