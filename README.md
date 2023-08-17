@@ -9,7 +9,7 @@
 - **Ethers.js**
 - **Hardhat**
 - **Nextjs**
-- **OpenCV**
+- **Machine Learning**
 
 ⚡ Fun fact : **I still need a nightlight.**
 
