@@ -5,11 +5,11 @@
 
 
 🌱 I’m currently learning :
+- **Machine Learning**
 - **Solidity**
 - **Ethers.js**
 - **Hardhat**
 - **Nextjs**
-- **Machine Learning**
 
 ⚡ Fun fact : **I still need a nightlight.**
 
