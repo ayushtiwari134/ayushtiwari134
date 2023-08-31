@@ -1,5 +1,5 @@
 ![Header](https://github.com/ayushtiwari134/ayushtiwari134/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Ayush</h1>
+
 <h3 align="center">A passionate software developer from India</h3>
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="coding image" align="right" width="350">
 
