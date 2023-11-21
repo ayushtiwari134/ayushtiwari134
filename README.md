@@ -6,10 +6,10 @@
 
 🌱 I’m currently learning :
 - **Machine Learning**
-- **Solidity**
-- **Ethers.js**
-- **Hardhat**
-- **Nextjs**
+- **Deep Learning**
+- **Streamlit**
+- **EDA**
+- **Hyperparameter tuning**
 
 ⚡ Fun fact : **I still need a nightlight.**
 
