@@ -7,7 +7,7 @@
 🌱 I’m currently learning :
 - **Machine Learning**
 - **Deep Learning**
-- **Data Science practices**
+- **Nextjs 14**
 - **Streamlit**
 
 
