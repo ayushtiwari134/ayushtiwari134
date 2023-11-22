@@ -7,9 +7,9 @@
 🌱 I’m currently learning :
 - **Machine Learning**
 - **Deep Learning**
+- **Data Science practices**
 - **Streamlit**
-- **EDA**
-- **Hyperparameter tuning**
+
 
 ⚡ Fun fact : **I still need a nightlight.**
 
