@@ -7,7 +7,8 @@
 🌱 I’m currently learning :
 - **Machine Learning**
 - **Deep Learning**
-- **Nextjs 14**
+- **Nextjs**
+- **Flask**
 - **Streamlit**
 
 
