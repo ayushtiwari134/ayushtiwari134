@@ -1,8 +1,7 @@
 # Ayush Tiwari
 
 📍 **Bengaluru, India**  
-📧 **[ayushtiwari134@gmail.com](mailto:ayushtiwari134@gmail.com)**   
-🔗 **[LinkedIn](https://www.linkedin.com/in/ayush-tiwari-ba10aa264)** | **[Twitter](https://x.com/ayushtiwari134)** | **[Kaggle](https://www.kaggle.com/ayushtiwari134)**
+📧 **[ayushtiwari134@gmail.com](mailto:ayushtiwari134@gmail.com)**
 
 ---
 
@@ -44,4 +43,11 @@ I am a passionate Machine Learning enthusiast with a focus on **Artificial Intel
 
 </div>
 
+---
+### Connect with me:
+
+
+<a href="https://linkedin.com/in/ayushtiwari-ba10aa264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-tiwari-ba10aa264" height="30" width="40" /></a>
+<a href="https://x.com/ayushtiwari134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushtiwari134" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ayushtiwari134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayushtiwari134" height="30" width="40" /></a>
 
