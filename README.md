@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate Machine Learning enthusiast with a focus on **Artificial Intelligence**, **Generative AI**, and **Web Development**. I have hands-on experience in **GANs**, **LLMs**, **Vision Transformers**, **Retrieval-Augmented Generation (RAG)**, and **Variational Autoencoders (VAEs)**.
+I am a passionate Machine Learning enthusiast with a focus on **Artificial Intelligence**, especially **Generative AI**, and **Web Development**. I have hands-on experience in **GANs**, **LLMs**, **Vision Transformers**, **Retrieval-Augmented Generation (RAG)**, and **Variational Autoencoders (VAEs)**, and traditional Machine Learning, Deep Learning models.
 
 ---
 
