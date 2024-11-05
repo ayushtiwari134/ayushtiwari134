@@ -5,7 +5,7 @@
 
 ---
 
-📄 **[Download My Resume](https://drive.google.com/file/d/1PEsNEvgc18SNlg7hsmu3Zkg0jk_P-sdw/view?usp=sharing)**
+📄 **[Download My Resume](https://drive.google.com/file/d/1PEsNEvgc18SNlg7hsmu3Zkg0jk_P-sdw/view?usp=sharing](https://drive.google.com/file/d/1w8Vq8UzPe_k4SUR501MR7IQAci2Melb-/view?usp=sharing))**
 
 ---
 
