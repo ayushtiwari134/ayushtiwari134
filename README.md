@@ -28,7 +28,7 @@ I am a passionate Machine Learning enthusiast with a focus on **Artificial Intel
 ![GAN](https://img.shields.io/badge/-GAN-FFA500?logo=python&logoColor=white&style=for-the-badge&logoWidth=50) ![DCGAN](https://img.shields.io/badge/-DCGAN-2ECC71?logo=python&logoColor=white&style=for-the-badge&logoWidth=50) ![cGAN](https://img.shields.io/badge/-cGAN-FFC300?logo=python&logoColor=white&style=for-the-badge&logoWidth=50)  
 ![StyleGAN](https://img.shields.io/badge/-StyleGAN-8E44AD?logo=python&logoColor=white&style=for-the-badge&logoWidth=50) ![VAE](https://img.shields.io/badge/-VAE-3498DB?logo=python&logoColor=white&style=for-the-badge&logoWidth=50) ![YOLO](https://img.shields.io/badge/-YOLO-3E8E41?logo=python&logoColor=white&style=for-the-badge&logoWidth=50)  
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge&logoWidth=50) ![LangChain](https://img.shields.io/badge/-LangChain-FF6F00?logo=python&logoColor=white&style=for-the-badge&logoWidth=50) ![Transformers](https://img.shields.io/badge/-Transformers-FFD700?logo=huggingface&logoColor=black&style=for-the-badge&logoWidth=50)
-
+... and counting
 ---
 
 ### **Web Development & Web3**
@@ -40,7 +40,7 @@ I am a passionate Machine Learning enthusiast with a focus on **Artificial Intel
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&logoWidth=50) ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge&logoWidth=50)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&logoWidth=50) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&logoWidth=50)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&logoWidth=50) ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge&logoWidth=50)
-
+... and counting
 </div>
 
 ---
